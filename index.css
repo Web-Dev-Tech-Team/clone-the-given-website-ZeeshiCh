@@ -1,0 +1,47 @@
+ul{
+   list-style-type: none; 
+   display: flex;
+   align-items: center;
+}
+
+.list-item{
+    padding-left: 75px;
+    padding-right: 75px;
+}
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
+#img1{
+        width: 280px;
+        height: 150px;
+       ;
+    
+}
+
+
+#img2{
+    padding: 65px;
+    width: 15px;
+    height: 15px;
+
+}
+
+section{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+   
+    width: 100vw; 
+    height: 20vh;
+   
+}
+
+nav{
+    width: 100vw;
+    display:flex;
+    justify-content: space-evenly;
+}
